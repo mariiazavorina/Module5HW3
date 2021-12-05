@@ -1,0 +1,13 @@
+img{
+    width: 350px;
+    height: 220px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin-bottom: 30px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 2px;
+    background-color: green;
+}

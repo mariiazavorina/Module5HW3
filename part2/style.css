@@ -1,0 +1,16 @@
+#img1{
+    float: left;
+    width: 250px;
+    padding: 0 25px 10px 5px;
+}
+#img2{
+    float: right;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    clear: both;
+}
+p{
+    text-align: justify;
+}
+
